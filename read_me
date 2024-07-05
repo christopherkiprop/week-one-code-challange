@@ -1,0 +1,25 @@
+WEEK ONE CODE CHALLENGE 
+
+    it has 3 files
+       1.A salary Calculator
+       2.A speed Detector
+       3.A Student grade generator
+
+    SALARY CALCULATOR
+
+    it prompts you to put in the salary that you receive and the benefits.
+    it then calculates then calculates your PAYE, and the  it asks you amount you pay to NHIF and NSSF.
+
+    SPEED DETECTOR
+
+    it prompts the user to input the drivers speed in kmhr it follows the rules of keeping a speed
+    limit of 70 and prints out demerit points when the speed limit is above and for each 5 km which
+    is above the speed limit it prints out one demerit point and when the demerit points accumilate 
+    and reach the threshold of 12 the license is to be suspended
+    
+
+     STUDENT GRADE GENERATOR
+
+     it promotes the user to input their marks in form of numbers from 0 to 100
+     using these ranges(A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.) 
+     it calculates said marks input at the top and gives out the grade
